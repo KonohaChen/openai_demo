@@ -33,7 +33,7 @@ with open("F:\openai_demo\questions.txt", "r") as q,open("F:\openai_demo\\answer
 
         json.dump(text,f)
         f.write('\n')
-        print("加载入文件完成...")
+        print("files updated...")
 
         question = q.readline()
 q.close()

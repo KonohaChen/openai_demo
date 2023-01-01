@@ -5,6 +5,8 @@ import os
 from os import makedirs
 from os.path import exists
 
+#the program will read multiple questions from local file and record the answers
+
 url = "https://api.openai.com/v1/completions"
 
 with open("F:\openai_demo\questions.txt", "r") as q,open("F:\openai_demo\\answer.txt","a") as f:

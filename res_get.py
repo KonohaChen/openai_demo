@@ -5,7 +5,7 @@ import os
 from os import makedirs
 from os.path import exists
 
-#the program will read multiple questions from local file and record the answers
+#the program will read multiple questions from local file and record the answers from GPT
 
 url = "https://api.openai.com/v1/completions"
 

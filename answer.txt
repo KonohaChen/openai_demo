@@ -1,0 +1,3 @@
+[{"text": "\nA dog is a domesticated animal that is part of the family Canidae. Dogs are often referred to as \"man", "index": 0, "logprobs": null, "finish_reason": "length"}]
+[{"text": "\nA cat is a small, typically furry, carnivorous mammal. They are often kept as pets and are known for their", "index": 0, "logprobs": null, "finish_reason": "length"}]
+[{"text": "\n\nA rabbit is a small mammal in the family Leporidae of the order Lagomorpha. Rabbits are", "index": 0, "logprobs": null, "finish_reason": "length"}]

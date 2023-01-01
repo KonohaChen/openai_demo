@@ -4,6 +4,7 @@ import sys
 import requests
 import json
 
+#the program will try to match the words from the input with the keywords folders
 question = input('Please enter the question')
 
 words_list = question.split(" ");
